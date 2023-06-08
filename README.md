@@ -7,3 +7,4 @@ My dotflies, licensed under the GNU GPL 3.0 (excl. Wallpaper)
 - Sway
 - Alacritty
 - i3blocks
+- Neovim
